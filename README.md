@@ -49,7 +49,7 @@ cd your-repo
 
 ### 2. Environment Setup
 
-Create a `.env` file in the root directory of the project to store your API keys and other environment variables. Example:
+Create a `.env.local` file in the root directory of the project to store your API keys and other environment variables. Example:
 
 ```bash
 VITE_MAIN_API_URL=YOUR_API_URL_HERE
